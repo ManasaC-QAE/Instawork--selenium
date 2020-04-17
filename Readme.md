@@ -1,8 +1,8 @@
 Framework : BDD framework using Selenium Cucumber and TestNg
 
-Scenarios are maintained in Features file - test\resources\features
-Step Defintions - test\java\stepdefs
-Page Object References - test\java\pages
+Scenarios are maintained in Features file - test\resources\features ||
+Step Defintions - test\java\stepdefs  ||
+Page Object References - test\java\pages  ||
 Runner file - test/java/TestRunner.java
 
 
